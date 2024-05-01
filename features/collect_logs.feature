@@ -26,6 +26,7 @@ Feature: Command behaviour when attached to an Ubuntu Pro subscription
       pro-journal.txt
       pro-status.json
       systemd-timers.txt
+      ua-activity-ping-on-boot.service.txt
       ua-auto-attach.path.txt(-error)?
       ua-auto-attach.service.txt(-error)?
       uaclient.conf
@@ -74,6 +75,7 @@ Feature: Command behaviour when attached to an Ubuntu Pro subscription
       pro-journal.txt
       pro-status.json
       systemd-timers.txt
+      ua-activity-ping-on-boot.service.txt
       ua-auto-attach.path.txt(-error)?
       ua-auto-attach.service.txt(-error)?
       uaclient.conf
