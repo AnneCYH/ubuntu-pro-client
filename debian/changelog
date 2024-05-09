@@ -1,6 +1,6 @@
 ubuntu-advantage-tools (1:1+devel) UNRELEASED; urgency=medium
 
-  * wip
+  * wip (GH: #1234, LP: #99999999)
 
  -- Grant Orndorff <grant.orndorff@canonical.com>  Thu, 14 Mar 2024 15:04:11 -0400
 

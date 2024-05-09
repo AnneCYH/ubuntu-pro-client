@@ -2,10 +2,6 @@
 
 name: CI (workflows)
 
-on:
-  push:
-  pull_request:
-
 defaults:
   run:
     shell: sh -ex {0}

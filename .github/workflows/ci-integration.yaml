@@ -2,8 +2,6 @@
 
 name: CI (integration)
 
-on:
-  pull_request:
 
 # Cancel any in-progress job or run
 concurrency:
