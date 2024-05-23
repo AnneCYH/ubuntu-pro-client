@@ -1,3 +1,9 @@
+ubuntu-advantage-tools (32.2~18.04) bionic; urgency=medium
+
+  * Backport 32.2 to bionic (LP: #2066929)
+
+ -- Grant Orndorff <grant.orndorff@canonical.com>  Thu, 23 May 2024 12:57:08 -0400
+
 ubuntu-advantage-tools (32.2) oracular; urgency=medium
 
   * d/apparmor: adjust rules for violations found during testing (LP: #2066929)
