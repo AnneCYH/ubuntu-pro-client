@@ -1,3 +1,9 @@
+ubuntu-advantage-tools (32.2~23.10) mantic; urgency=medium
+
+  * Backport 32.2 to mantic (LP: #2066929)
+
+ -- Grant Orndorff <grant.orndorff@canonical.com>  Thu, 23 May 2024 12:57:11 -0400
+
 ubuntu-advantage-tools (32.2) oracular; urgency=medium
 
   * d/apparmor: adjust rules for violations found during testing (LP: #2066929)
