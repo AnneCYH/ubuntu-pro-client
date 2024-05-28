@@ -1,3 +1,9 @@
+ubuntu-advantage-tools (32.3~24.04) noble; urgency=medium
+
+  * Backport 32.3 to noble (LP: #2060732)
+
+ -- Renan Rodrigo <renanrodrigo@canonical.com>  Tue, 28 May 2024 15:15:48 -0300
+
 ubuntu-advantage-tools (32.3) oracular; urgency=medium
 
   * d/apparmor: adjust the profiles to account for usr-merge consequences
