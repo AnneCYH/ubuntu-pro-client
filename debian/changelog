@@ -1,3 +1,9 @@
+ubuntu-advantage-tools (32.3~16.04) xenial; urgency=medium
+
+  * Backport 32.3 to xenial (LP: #2060732)
+
+ -- Renan Rodrigo <renanrodrigo@canonical.com>  Tue, 28 May 2024 15:15:32 -0300
+
 ubuntu-advantage-tools (32.3) oracular; urgency=medium
 
   * d/apparmor: adjust the profiles to account for usr-merge consequences
