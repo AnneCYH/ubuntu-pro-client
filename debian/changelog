@@ -1,3 +1,9 @@
+ubuntu-advantage-tools (32.3~23.10) mantic; urgency=medium
+
+  * Backport 32.3 to mantic (LP: #2060732)
+
+ -- Renan Rodrigo <renanrodrigo@canonical.com>  Tue, 28 May 2024 15:15:45 -0300
+
 ubuntu-advantage-tools (32.3) oracular; urgency=medium
 
   * d/apparmor: adjust the profiles to account for usr-merge consequences
