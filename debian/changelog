@@ -1,3 +1,9 @@
+ubuntu-advantage-tools (32.3~18.04) bionic; urgency=medium
+
+  * Backport 32.3 to bionic (LP: #2060732)
+
+ -- Renan Rodrigo <renanrodrigo@canonical.com>  Tue, 28 May 2024 15:15:36 -0300
+
 ubuntu-advantage-tools (32.3) oracular; urgency=medium
 
   * d/apparmor: adjust the profiles to account for usr-merge consequences
